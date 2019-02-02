@@ -14,13 +14,13 @@
                         "name": "email",
                         "type": "email",
                         "label": "Pandora Email",
-                        "value": ""
+                        "value": "redwallpsion@yahoo.com"
                     },
                     {
                         "name": "password",
                         "type": "password",
                         "label": "Password",
-                        "value": ""
+                        "value": ""Ma1colm""
                     }
                 ]
             }
